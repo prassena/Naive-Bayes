@@ -39,3 +39,6 @@ import plotly.offline as offline
 import plotly.graph_objs as go
 offline.init_notebook_mode()
 from collections import Counter
+
+from sklearn.model_selection import GridSearchCV
+from sklearn.naive_bayes import MultinomialNB
