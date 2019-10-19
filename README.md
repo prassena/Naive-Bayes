@@ -11,3 +11,5 @@ The data has been prerocessed like removel of duplicate ,stop words, special cha
 The processed Data have been analysed - univarient analysis to know more about the data .
 
 Metric used tofind best model was AUC (Area under ROC).
+
+Go to this url https://nbviewer.jupyter.org/ and copy paste the following link " https://github.com/prassena/Naive-Bayes/blob/master/Naive%20Bayes.ipynb " 
