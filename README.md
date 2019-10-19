@@ -14,5 +14,5 @@ Metric used tofind best model was AUC (Area under ROC).
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
 
-please click the below link
+please click the following link
 https://nbviewer.jupyter.org/github/prassena/Naive-Bayes/blob/master/Naive%20Bayes.ipynb
